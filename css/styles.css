@@ -8,3 +8,15 @@ img {
   display: block;
   max-width: 100%;
 }
+
+header {
+  background: url(../img/intro.jpg);
+}
+
+h1, h2, h3 {
+  font-family: 'Anton', sans-serif;
+}
+
+p, a {
+  font-family: 'Lato', sans-serif;
+}
