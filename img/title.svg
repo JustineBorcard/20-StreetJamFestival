@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 259 294.91">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Anton-Regular, Anton;
+        font-size: 78px;
+      }
+    </style>
+  </defs>
+  <g id="Maquette">
+    <text class="cls-2" transform="translate(0 79.77) scale(1 1.1)"><tspan x="0" y="0">STREET</tspan><tspan x="0" y="85.09">JAM</tspan><tspan x="0" y="170.18">FESTI</tspan><tspan class="cls-1" x="147.74" y="170.18">V</tspan><tspan x="182.74" y="170.18">AL</tspan></text>
+  </g>
+</svg>

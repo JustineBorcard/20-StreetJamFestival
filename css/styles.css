@@ -10,16 +10,22 @@ img {
 }
 
 h1 {
-  font-size: 78px;
+  font-size: 68px;
   color: #ffffff;
   margin-top: 0px;
   padding-top: 0px;
   padding-left: 20px;
+  background: url(../img/intro.png);
+  background-size:contain;
+  background-repeat: no-repeat;
+  line-height: 1.2;
 
 }
 
+
 h2 {
-  font-size: 45px;
+  font-size: 35px;
+  line-height: 1.2;
 }
 
 h3 {
@@ -35,8 +41,12 @@ p, a {
   font-family: 'Lato', sans-serif;
 }
 
+.a-propos {
+  background: #2f2f58;
+
+}
 
 
 
 
-#2f2f58
+
