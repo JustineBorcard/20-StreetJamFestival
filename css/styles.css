@@ -9,9 +9,6 @@ img {
   max-width: 100%;
 }
 
-header {
-  background: url(../img/intro.jpg);
-}
 
 h1, h2, h3 {
   font-family: 'Anton', sans-serif;
