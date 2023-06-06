@@ -126,6 +126,10 @@ p, a {
   padding: 20px 20px 0 20px;
 }
 
+.a-propos, .skate, .street-food {
+  color:#ffffff;
+}
+
 footer{
   background: #ffffff;
   padding: 20px
