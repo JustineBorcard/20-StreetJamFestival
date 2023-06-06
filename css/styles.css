@@ -1,3 +1,7 @@
+html {
+  scroll-behavior:smooth;
+}
+
 body {
   max-width: 320px;
   margin: auto;
@@ -12,24 +16,19 @@ img {
 
 header {
   background: #ffffff;
-  margin-bottom: 0px;
-  padding-bottom: 0px;
 }
 
 h1 {
   font-size: 69px;
   color: #ffffff;
-  margin-top: 0px;
-  padding-top: 0px;
   padding-left: 20px;
-  padding-bottom: 0px;
-  margin-bottom: 30px;
   background: url(../img/intro.png);
   background-size: contain;
   background-repeat: no-repeat;
   line-height: 1.2;
 }
 
+ 
 nav {
   padding-top: 0px;
   margin-top: 0px;
@@ -44,16 +43,20 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 60px;
 }
 
 .cta {
   border: 1px solid #2f2f58;
   margin-bottom: 20px;
-  padding: 5px 0px 5px 0px;
+  padding: 5px 0px;
   width: 100%;
   text-align: center;
 }
 
+h1, h2, h3 {
+  font-family: 'Anton', sans-serif;
+}
 
 h2 {
   font-size: 35px;
@@ -67,10 +70,6 @@ h2 {
 h3 {
   font-size: 32px;
   text-align: right;
-}
-
-h1, h2, h3 {
-  font-family: 'Anton', sans-serif;
 }
 
 p, a {
