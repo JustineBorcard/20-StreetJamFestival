@@ -1,7 +1,8 @@
 html {
   scroll-behavior:smooth;
   background-image: url(../img/tagged-wall.png);
-  
+  background-position: left;
+  background-attachment: fixed;
 }
 
 body {
