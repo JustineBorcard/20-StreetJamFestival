@@ -1,6 +1,7 @@
 html {
   scroll-behavior:smooth;
   background-image: url(../img/mur-tagué.png);
+  
 }
 
 body {
@@ -16,9 +17,7 @@ img {
 }
 
 header {
-  background: hsl(0, 0%, 100%);
-  margin-top: 0;
-  
+  background:#ffffff;
 }
 
 h1 {
@@ -29,7 +28,7 @@ h1 {
   background-size: contain;
   background-repeat: no-repeat;
   line-height: 1.2;
-  margin:0;
+  margin: 0 0 10px 0;
 }
 
 nav {
