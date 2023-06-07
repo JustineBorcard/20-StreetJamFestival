@@ -8,7 +8,7 @@ html {
 body {
   max-width: 320px;
   margin: auto;
-  background: #ddd;
+  background: #ffffff;
 }
 
 img {
@@ -17,8 +17,8 @@ img {
   margin: 20px 0;
 }
 
-header {
-  background:#ffffff;
+h1, h2, h3 {
+  font-family: 'Anton', sans-serif;
 }
 
 h1 {
@@ -32,14 +32,13 @@ h1 {
   margin: 0 0 10px 0;
 }
 
-nav {
-  padding-top: 0;
-  margin-top: 0;
-}
-
 a {
   text-decoration: none;
   color: #2f2f58;
+}
+
+p, a {
+  font-family: 'Lato', sans-serif;
 }
 
 .container {
@@ -55,10 +54,6 @@ a {
   padding: 5px 0;
   width: 100%;
   text-align: center;
-}
-
-h1, h2, h3 {
-  font-family: 'Anton', sans-serif;
 }
 
 h2 {
@@ -80,9 +75,8 @@ h3 {
   top: 11px;
 }
 
-p, a {
-  font-family: 'Lato', sans-serif;
-  
+strong {
+  font-weight: 900;
 }
 
 .a-propos-title{
@@ -95,24 +89,22 @@ p, a {
   padding: 20px 20px 0 20px;
 }
 
+.street-art-title, .musique-title {
+  color:#dbd56a;
+}
 
 .street-art {
   background:#dbd56a;
   padding: 20px 20px 0 20px;
 } 
 
-
-.street-art-title, .musique-title {
-  color:#dbd56a;
+.skate-title {
+  color:#2f2f58;
 }
 
 .skate {
   background: #2f2f58;
   padding: 20px 20px 0 20px;
-}
-
-.skate-title {
-  color:#2f2f58;
 }
 
 .musique {
@@ -129,21 +121,12 @@ p, a {
   color:#ffffff;
 }
 
-footer{
-  background: #ffffff;
-  padding: 20px;
-  color:#2f2f58;
-}
-
 .contact-title {
   color: #ffffff;
 }
 
-strong {
-  font-weight: 900;
+footer {
+  background: #ffffff;
+  padding: 20px;
+  color:#2f2f58;
 }
-
-
-
-
-
